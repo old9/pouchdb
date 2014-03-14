@@ -1,8 +1,8 @@
 {
   "name": "pouchdb",
-  "version": "1.2.0-alpha",
+  "version": "2.0.1-1",
   "description": "PouchDB is a pocket-sized database.",
-  "homepage": "https://github.com/daleharvey/pouchdb",
+  "homepage": "https://github.com/old9/pouchdb",
   "author": "Dale Harvey",
   "main": "dist/pouchdb-nightly.js",
   "keywords": [
